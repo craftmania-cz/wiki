@@ -70,12 +70,12 @@ const config = {
             label: 'Základní informace',
           },
           {
-            to: '/xyz',
+            to: '/blog',
             label: 'Admin Team',
             position: 'left',
           },
           {
-            to: '/xyz',
+            to: '/blog',
             label: 'Changelog',
             position: 'left',
           }
