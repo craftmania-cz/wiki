@@ -69,7 +69,16 @@ const config = {
             position: 'left',
             label: 'Základní informace',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            to: '/xyz',
+            label: 'Admin Team',
+            position: 'left',
+          },
+          {
+            to: '/xyz',
+            label: 'Changelog',
+            position: 'left',
+          }
         ],
       },
       footer: {

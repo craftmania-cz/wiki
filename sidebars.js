@@ -20,13 +20,6 @@ const sidebars = {
   //}],
 
   // But you can create a sidebar manually
-  tutorialSidebar: [
-    {
-      type: 'category',
-      label: 'Tutorial',
-      items: ['tutorial-basics/congratulations', 'tutorial-basics/create-a-blog-post'],
-    },
-  ],
   basicInfo: [
     'basic-info',
     'resource-pack-problemy'
