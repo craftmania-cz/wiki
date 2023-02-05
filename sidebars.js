@@ -22,7 +22,18 @@ const sidebars = {
   // But you can create a sidebar manually
   basicInfo: [
     'basic-info',
-    'resource-pack-problemy'
+    'resource-pack-problemy',
+    {
+      type: 'category',
+      label: 'Návody na pluginy',
+      link: {
+        type: 'generated-index',
+      },
+      collapsed: false,
+      items: [
+        'navody/pozemky',
+      ],
+    },
   ]
 };
 
