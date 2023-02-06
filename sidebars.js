@@ -32,6 +32,7 @@ const sidebars = {
       collapsed: false,
       items: [
         'navody/pozemky',
+        'navody/chestshop'
       ],
     },
   ]
