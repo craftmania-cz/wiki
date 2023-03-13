@@ -21,8 +21,8 @@ const sidebars = {
 
   // But you can create a sidebar manually
   basicInfo: [
-    'basic-info',
-    'resource-pack-problemy',
+    'public/basic-info',
+    'public/resource-pack-problemy',
     {
       type: 'category',
       label: 'Návody na pluginy',
@@ -31,10 +31,15 @@ const sidebars = {
       },
       collapsed: false,
       items: [
-        'navody/pozemky',
-        'navody/chestshop'
+        'public/navody/pozemky',
+        'public/navody/chestshop'
       ],
     },
+  ],
+  adminTeam: [
+    'admin_team/intro',
+    'admin_team/delka_unbanu',
+    'admin_team/ban_system'
   ]
 };
 

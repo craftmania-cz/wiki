@@ -22,8 +22,8 @@ K připojení na PC verzi našeho serveru potřebuješ jednu z následujících 
 - `mc.craftmania.cz` - Oficiální IP -> vždy funguje!
 - `play.craftmania.cz` - Starý formát používaný v minulých letech, avšak stále funguje.
 
-![](./assets/pripojeni-tutorial.png)
+![](./../assets/pripojeni-tutorial.png)
 
 Pokud jsi zadal/a IP správně, Minecraft pingne náš server a ty uvidíš popisky našeho serveru. Poté se stačí již jenom připojit. 😃
 
-![](./assets/pripojeni-tutorial-2.png)
+![](./../assets/pripojeni-tutorial-2.png)

@@ -65,12 +65,13 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'basic-info',
+            docId: 'public/basic-info',
             position: 'left',
             label: 'Základní informace',
           },
           {
-            to: '/blog',
+            type: 'doc',
+            docId: 'admin_team/intro',
             label: 'Admin Team',
             position: 'left',
           },

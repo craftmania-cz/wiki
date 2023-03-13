@@ -12,7 +12,7 @@ Při prvním připojení na server, se tě Minecraft automaticky zeptá, zda chc
 ## Server mě vyhazuje s zprávou, že musím povolit RP
 V takovém případě stačí **kliknout na server v Minecraftu** (v seznamu serverů) a kliknout na **Upravit**.  Poté by mělo jít připojení už klasicky navždy normálně.
 
-![](./assets/resourcepack-error.png)
+![](./../assets/resourcepack-error.png)
 
 ## Resource pack jsem povolil ale i tak mě server kope
 V takovém případě musíš provést jednu né-li všechny následující akce:
