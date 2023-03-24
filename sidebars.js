@@ -35,6 +35,18 @@ const sidebars = {
         'public/navody/chestshop'
       ],
     },
+    {
+      type: 'category',
+      label: 'Store',
+      link: {
+        type: 'generated-index',
+      },
+      collapsed: true,
+      items: [
+        'public/store/darovani',
+        'public/store/gift-karta-info'
+      ]
+    }
   ],
   adminTeam: [
     'admin_team/intro',
