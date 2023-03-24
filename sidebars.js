@@ -38,8 +38,20 @@ const sidebars = {
   ],
   adminTeam: [
     'admin_team/intro',
+    'admin_team/system_trestu',
     'admin_team/delka_unbanu',
-    'admin_team/ban_system'
+    {
+      type: 'category',
+      label: 'Návody',
+      link: {
+        type: 'generated-index',
+      },
+      collapsed: false,
+      items: [
+        'admin_team/ban_system',
+        'admin_team/coreprotect'
+      ]
+    },
   ]
 };
 
