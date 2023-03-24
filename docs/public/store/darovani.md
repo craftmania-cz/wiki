@@ -1,3 +1,10 @@
+---
+sidebar_position: 1
+tags:
+ - navod
+ - store
+---
+
 # Jak darovat balíček jinému hráči
 
 Store nepodporuje být přihlášený za tvůj nick a poté vybrat u balíčku jméno, komu balíček darovat, proto je nutné přímo nakupovat na daný nick v celém Storu.

@@ -1,5 +1,8 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
+tags:
+ - resource-pack
+ - problemy
 ---
 
 # Problémy s resource packem

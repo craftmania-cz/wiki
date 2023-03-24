@@ -32,7 +32,8 @@ const sidebars = {
       collapsed: false,
       items: [
         'public/navody/pozemky',
-        'public/navody/chestshop'
+        'public/navody/chestshop',
+        'public/navody/residence'
       ],
     },
     {
