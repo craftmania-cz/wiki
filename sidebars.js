@@ -25,6 +25,17 @@ const sidebars = {
     'public/resource-pack-problemy',
     {
       type: 'category',
+      label: 'Klasické návody',
+      link: {
+        type: 'generated-index',
+      },
+      collapsed: false,
+      items: [
+        'public/navody/minecraft-screenshots'
+      ]
+    },
+    {
+      type: 'category',
       label: 'Návody na pluginy',
       link: {
         type: 'generated-index',
@@ -33,7 +44,11 @@ const sidebars = {
       items: [
         'public/navody/pozemky',
         'public/navody/chestshop',
-        'public/navody/residence'
+        'public/navody/residence',
+        'public/navody/friends-clans',
+        'public/navody/truhla-smrti',
+        'public/navody/vytah',
+        'public/navody/creative-roleplay'
       ],
     },
     {
