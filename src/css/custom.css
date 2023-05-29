@@ -170,6 +170,10 @@ pre.prism-code {
   text-decoration: none;
 }
 
+.footer--dark {
+  --ifm-footer-background-color: inherit;
+}
+
 /* Custom design for sidebar hide and expand buttons */
 
 aside.theme-doc-sidebar-container {
