@@ -1,12 +1,15 @@
-# Website
+<br />
+<p align="center">
+      <h1 align="center">Wiki</h1>
+</p>
+<p align="center">
+  <img src="http://ForTheBadge.com/images/badges/made-with-javascript.svg" alt="Made with JavaScript" style="height: 28px;"/>
+  <img src="https://therealsujitk-vercel-badge.vercel.app/?app=wiki-fic9mwj2a-craftmania&style=for-the-badge" />
+</p>
+<p align="center">
+    Hlavní wiki obsahující návody pro hráče, členy AT a changelogy z serverů a modů.
+</p>
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
-
-### Installation
-
-```
-$ yarn
-```
 
 ### Local Development
 
@@ -14,7 +17,7 @@ $ yarn
 $ yarn start
 ```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+Spustí lokalní server a otevře jej v prohlížeči. Poté stačí upravovat .md soubory a vše se samo aktualizuje.
 
 ### Build
 
@@ -22,20 +25,4 @@ This command starts a local development server and opens up a browser window. Mo
 $ yarn build
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Tento příkaz vygeneruje statický obsah do `build` složky který se poté hostuje skrz Vercel.
