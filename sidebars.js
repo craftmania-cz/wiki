@@ -23,6 +23,8 @@ const sidebars = {
   basicInfo: [
     'public/basic-info',
     'public/resource-pack-problemy',
+    'public/zakladni-prikazy',
+    'public/server-ekonomika',
     {
       type: 'category',
       label: 'Klasické návody',
