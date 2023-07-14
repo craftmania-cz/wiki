@@ -8,7 +8,7 @@ Zde se dozvíš, jak se jednoduše připojit na server, jaké verze podporujeme 
 
 ## Připojení
 
-Náš server funguje vždy na nejnovější verzi Minecraftu. K dnešnímu dni to je 1.16.x až 1.19.4. Výrazně ale doporučujeme používat minimálně verzi 1.19.2!
+Náš server funguje vždy na nejnovější verzi Minecraftu. K dnešnímu dni to je 1.16.x až 1.20.1. Výrazně ale doporučujeme používat minimálně verzi 1.20.1!
 
 ## IP Adresa
 K připojení na PC verzi našeho serveru potřebuješ jednu z následujících IP:
