@@ -64,7 +64,8 @@ const sidebars = {
         'public/store/darovani',
         'public/store/gift-karta-info'
       ]
-    }
+    },
+    'public/mazani-obsahu'
   ],
   adminTeam: [
     'admin_team/intro',
