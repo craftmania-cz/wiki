@@ -26,6 +26,26 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
+  plugins: [
+    [
+      '@docusaurus/plugin-content-blog',
+      {
+        /**
+         * Required for any multi-instance plugin
+         */
+        id: 'changelog',
+        /**
+         * URL route for the blog section of your site.
+         * *DO NOT* include a trailing slash.
+         */
+        routeBasePath: 'changelog',
+        /**
+         * Path to data on filesystem relative to site dir.
+         */
+        path: './changelog',
+      },
+    ]
+  ],
 
   presets: [
     [
@@ -76,9 +96,8 @@ const config = {
             position: 'left',
           },
           {
-            to: '/blog',
             label: 'Changelog',
-            position: 'left',
+            to: '/changelog',
           }
         ],
       },
