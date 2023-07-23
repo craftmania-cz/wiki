@@ -8,6 +8,10 @@ tags:
 # Truhla smrti
 Speciální truhla, která vznikne pouze když hráč zemře na Vanilla severu přináší pár změn a vylepšení k hraní na serveru. K čemu ale slouží?
 
+:::info
+Truhla smrti není aktuálně dostupná na žádném serveru.
+:::
+
 ## Jak funguje?
 Pokud se ti někdy stalo, že jsi zemřel(a) tak určitě víš, že někdy itemy se rozlítnou všude, spadnou do voidu, lávy atd. Z tohoto důvodu jsme přidali - Truhlu smrti.
 Truhla se vygeneruje po každé smrti a uchová itemy v ní. Zároveň ti truhla oznámí do chatu, kde se nachází.. a pak je tvůj čas. Čas jí získat zpět jinak se zníčí a všechen obsah se rozsype na zem pro všechny ostatní hráče.
