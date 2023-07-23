@@ -2,7 +2,7 @@
 slug: 2023-06-06-server-prikazy
 title: Nové server příkazy
 authors: wake
-tags: [hello, docusaurus]
+tags: [server, creative, oneblock, survival, discord]
 ---
 
 ### Hlavní změny
