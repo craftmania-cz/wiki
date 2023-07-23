@@ -21,7 +21,7 @@ const sidebars = {
 
   // But you can create a sidebar manually
   basicInfo: [
-    'public/basic-info',
+    'public/pripojeni',
     'public/resource-pack-problemy',
     'public/zakladni-prikazy',
     'public/server-ekonomika',

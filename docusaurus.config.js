@@ -57,7 +57,7 @@ const config = {
           routeBasePath: '/'
         },
         blog: {
-          showReadingTime: true,
+          showReadingTime: false,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -78,7 +78,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'public/basic-info',
+            docId: 'public/pripojeni',
             position: 'left',
             label: 'Základní informace',
           },
@@ -102,7 +102,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/public/basic-info',
+                to: '/public/pripojeni',
               },
             ],
           },

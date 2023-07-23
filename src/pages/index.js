@@ -17,7 +17,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/public/basic-info">
+            to="/docs/public/pripojeni">
             CraftMania Wiki [ALPHA]
           </Link>
         </div>
