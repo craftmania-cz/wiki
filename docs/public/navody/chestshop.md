@@ -33,5 +33,6 @@ Pravým kliknutím na cedulku shopu můžeš jako majitel upravovat shop. Tedy m
 ## Zrušení shopu
 Shop lze zníčit třemi jednoduchými způsoby:
 - Zníčením truhly
+- Pomocí zlaté sekery, když zníčíš cedulku
 - Pravým kliknutím na cedulku a volba **smazat shop**
 - Koukneš se na cedulku a napíšeš `/qs remove`
