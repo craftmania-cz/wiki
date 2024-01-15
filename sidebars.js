@@ -21,10 +21,10 @@ const sidebars = {
 
   // But you can create a sidebar manually
   basicInfo: [
-    'public/pripojeni',
-    'public/resource-pack-problemy',
-    'public/zakladni-prikazy',
-    'public/server-ekonomika',
+    'hlavni/pripojeni',
+    'hlavni/resource-pack-problemy',
+    'hlavni/zakladni-prikazy',
+    'hlavni/server-ekonomika',
     {
       type: 'category',
       label: 'Klasické návody',
@@ -33,7 +33,7 @@ const sidebars = {
       },
       collapsed: false,
       items: [
-        'public/navody/minecraft-screenshots'
+        'hlavni/navody/minecraft-screenshots'
       ]
     },
     {
@@ -44,13 +44,13 @@ const sidebars = {
       },
       collapsed: false,
       items: [
-        'public/navody/pozemky',
-        'public/navody/chestshop',
-        'public/navody/residence',
-        'public/navody/friends-clans',
-        'public/navody/truhla-smrti',
-        'public/navody/vytah',
-        'public/navody/creative-roleplay'
+        'hlavni/navody/pozemky',
+        'hlavni/navody/chestshop',
+        'hlavni/navody/residence',
+        'hlavni/navody/friends-clans',
+        'hlavni/navody/truhla-smrti',
+        'hlavni/navody/vytah',
+        'hlavni/navody/creative-roleplay'
       ],
     },
     {
@@ -61,11 +61,11 @@ const sidebars = {
       },
       collapsed: true,
       items: [
-        'public/store/darovani',
-        'public/store/gift-karta-info'
+        'hlavni/store/darovani',
+        'hlavni/store/gift-karta-info'
       ]
     },
-    'public/mazani-obsahu'
+    'hlavni/mazani-obsahu'
   ],
   adminTeam: [
     'admin_team/intro',

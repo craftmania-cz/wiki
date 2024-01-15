@@ -77,7 +77,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'public/pripojeni',
+            docId: 'hlavni/pripojeni',
             position: 'left',
             label: 'Základní informace',
           },
@@ -101,7 +101,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/public/pripojeni',
+                to: '/hlavni/pripojeni',
               },
             ],
           },
