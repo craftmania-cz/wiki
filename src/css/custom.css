@@ -27,6 +27,8 @@
 
   --docs-color-android: #44db85;
   --docs-color-apple: var(--docs-color-text) !important;
+
+  --ifm-breadcrumb-border-radius: 0.25rem;
 }
 
 [data-theme='dark'] {
