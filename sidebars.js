@@ -68,7 +68,8 @@ const sidebars = {
         'hlavni/store/gift-karta-info'
       ]
     },
-    'hlavni/mazani-obsahu'
+    'hlavni/mazani-obsahu',
+    'hlavni/limity-na-serveru'
   ],
   adminTeam: [
     'admin_team/intro',
