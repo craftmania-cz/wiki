@@ -2,5 +2,5 @@ import React from 'react';
 import  { Redirect } from 'react-router-dom';
 
 export default function Home() {
-  return <Redirect to='/hlavni/pripojeni' />;
+  return <Redirect to='/zakladni-informace' />;
 }

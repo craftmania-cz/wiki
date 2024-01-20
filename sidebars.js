@@ -21,6 +21,7 @@ const sidebars = {
 
   // But you can create a sidebar manually
   basicInfo: [
+    'zakladni-informace',
     'hlavni/pripojeni',
     'hlavni/resource-pack-problemy',
     'hlavni/zakladni-prikazy',
