@@ -34,7 +34,8 @@ const sidebars = {
       },
       collapsed: false,
       items: [
-        'hlavni/navody/minecraft-screenshots'
+        'hlavni/navody/minecraft-screenshots',
+        'hlavni/navody/discord'
       ]
     },
     {
