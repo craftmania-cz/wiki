@@ -52,7 +52,8 @@ const sidebars = {
         'hlavni/navody/friends-clans',
         'hlavni/navody/truhla-smrti',
         'hlavni/navody/vytah',
-        'hlavni/navody/creative-roleplay'
+        'hlavni/navody/creative-roleplay',
+        'hlavni/navody/exp-lahve'
       ],
     },
     {
