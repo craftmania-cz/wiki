@@ -77,7 +77,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'hlavni/pripojeni',
+            docId: 'zakladni-informace',
             position: 'left',
             label: 'Základní informace',
           },
@@ -97,38 +97,58 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Wiki',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Jak se připojit na server',
                 to: '/hlavni/pripojeni',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Užitečné odkazy',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Homepage',
+                href: 'https://craftmania.cz',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Novinky',
+                href: 'https://news.craftmania.cz',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Statistiky',
+                href: 'https://stats.craftmania.cz',
+              },
+              {
+                label: 'Banlist',
+                href: 'https://banlist.craftmania.cz',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Podmínky a kontakt',
             items: [
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Pravidla serveru',
+                href: 'https://craftmania.cz/pravidla/',
               },
+              {
+                label: 'Obchodní podmínky',
+                href: 'https://craftmania.cz/pravidla/obchodni-podminky/',
+              },
+              {
+                label: 'Povolené a zakázané módy',
+                href: 'https://craftmania.cz/pravidla/povolene-mody/',
+              },
+              {
+                label: 'Zásady ochrany osobních údajů',
+                href: 'https://craftmania.cz/pravidla/zasady-ochrany-osobnich-udaju/',
+              },
+              {
+                label: 'Kontakt',
+                href: 'https://craftmania.cz/kontakt/',
+              }
             ],
           },
         ],
