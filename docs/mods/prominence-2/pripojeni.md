@@ -56,7 +56,7 @@ Zadej IP adresu našeho serveru jako: `pro.craftmania.cz:28000` a klikni na **Do
 Někdy to chvilku trvá, než se spustí Minecraft sám, doporučujeme tedy počkat chvilku a neklikat na nic.
 :::
 
-6. Pokud ti najel Minecraft v pořádku a vidíš úvodní obrazovku znázorněnou níže, nyní se můžeš připojit na náš server. Klikni na **Multiplayer** a poté **Add Server**.
+6. Pokud ti najel Minecraft v pořádku a vidíš úvodní obrazovku znázorněnou výše, nyní se můžeš připojit na náš server. Klikni na **Multiplayer** a poté **Add Server**.
 
 Zadej IP adresu našeho serveru jako: `pro.craftmania.cz:28000` a klikni na **Done**.
 

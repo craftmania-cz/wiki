@@ -100,6 +100,7 @@ const sidebars = {
       items: [
         'mods/prominence-2/informace',
         'mods/prominence-2/pripojeni',
+        'mods/prominence-2/zaklady-hrani'
       ]
     },
   ]
