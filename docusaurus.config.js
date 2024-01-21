@@ -83,6 +83,12 @@ const config = {
           },
           {
             type: 'doc',
+            docId: 'mods/intro',
+            position: 'left',
+            label: 'Módované servery',
+          },
+          {
+            type: 'doc',
             docId: 'admin_team/intro',
             label: 'Admin Team',
             position: 'left',

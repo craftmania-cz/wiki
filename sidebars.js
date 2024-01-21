@@ -87,6 +87,21 @@ const sidebars = {
         'admin_team/coreprotect'
       ]
     },
+  ],
+  mods: [
+    'mods/intro',
+    {
+      type: 'category',
+      label: 'Prominence 2',
+      link: {
+        type: 'generated-index',
+      },
+      collapsed: true,
+      items: [
+        'mods/prominence-2/informace',
+        'mods/prominence-2/pripojeni',
+      ]
+    },
   ]
 };
 
