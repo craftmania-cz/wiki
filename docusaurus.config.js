@@ -6,12 +6,12 @@ import * as prism from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'CraftMania Wiki',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://wiki-new.craftmania.cz/',
+  tagline: 'Oficiální wiki serveru CraftMania.cz kde najdeš různé návody k našim serverům a další informace.',
+  url: 'https://wiki.craftmania.cz/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo.png',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -43,7 +43,8 @@ const config = {
          */
         path: './changelog',
       },
-    ]
+    ],
+    require.resolve('docusaurus-lunr-search'),
   ],
 
   presets: [
