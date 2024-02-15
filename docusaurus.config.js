@@ -7,7 +7,7 @@ import * as prism from 'prism-react-renderer';
 const config = {
   title: 'CraftMania Wiki',
   tagline: 'Dinosaurs are cool',
-  url: 'https://wiki-new.craftmania.cz/',
+  url: 'https://wiki.craftmania.cz/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
