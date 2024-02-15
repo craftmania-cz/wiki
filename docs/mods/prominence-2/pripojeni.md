@@ -3,7 +3,7 @@
 Předtím než se připojíš na server, je potřeba **vlastnit originální Minecraft účet**. Modované servery na CraftManii nepodporují a nebudou podporovat warez Minecraft připojení.
 
 :::info Aktuální verze
-Minecraft verze serveru je: `1.20.1` a modpack verze: `2.5.6`
+Minecraft verze serveru je: `1.20.1` a modpack verze: `2.6.0`
 :::
 
 ## ATLauncher
