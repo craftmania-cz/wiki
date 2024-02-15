@@ -43,7 +43,8 @@ const config = {
          */
         path: './changelog',
       },
-    ]
+    ],
+    require.resolve('docusaurus-lunr-search'),
   ],
 
   presets: [
