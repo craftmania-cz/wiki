@@ -56,18 +56,6 @@ const sidebars = {
         'hlavni/navody/exp-lahve'
       ],
     },
-    {
-      type: 'category',
-      label: 'Store',
-      link: {
-        type: 'generated-index',
-      },
-      collapsed: true,
-      items: [
-        'hlavni/store/darovani',
-        'hlavni/store/gift-karta-info'
-      ]
-    },
     'hlavni/mazani-obsahu',
     'hlavni/limity-na-serveru'
   ],
