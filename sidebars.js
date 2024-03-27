@@ -72,7 +72,8 @@ const sidebars = {
       collapsed: false,
       items: [
         'admin_team/ban_system',
-        'admin_team/coreprotect'
+        'admin_team/coreprotect',
+        'admin_team/grafana_monitoring'
       ]
     },
     'admin_team/cosmetic_itemy'
