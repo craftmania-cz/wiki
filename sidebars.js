@@ -75,6 +75,7 @@ const sidebars = {
         'admin_team/coreprotect'
       ]
     },
+    'admin_team/cosmetic_itemy'
   ],
   mods: [
     'mods/intro',
