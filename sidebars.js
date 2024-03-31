@@ -57,6 +57,7 @@ const sidebars = {
       ],
     },
     'hlavni/generace_ore',
+    'hlavni/custom_enchanty',
     'hlavni/mazani-obsahu',
     'hlavni/limity-na-serveru'
   ],
