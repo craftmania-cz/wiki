@@ -56,6 +56,7 @@ const sidebars = {
         'hlavni/navody/exp-lahve'
       ],
     },
+    'hlavni/generace_ore',
     'hlavni/mazani-obsahu',
     'hlavni/limity-na-serveru'
   ],
