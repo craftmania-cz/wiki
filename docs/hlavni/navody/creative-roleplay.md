@@ -8,6 +8,10 @@ tags:
 # Creative Roleplay
 Na Creativu na každém pozemku si každý může **vytvořit vlastní roleplay roli**, která se zobrazí v chatu a nad nickem. Tento návod popisuje jak ovládat roleplay plugin a jak spravovat své role.
 
+:::info
+Roleplay plugin je aktuálně nedostupný z důvodu rozbití na verzi 1.20.
+:::
+
 ## Základní příkaz
 Přístup k roleplayi má každý hráč bez ohledu zda je VIP nebo, včetně barev a vše neomezeně. Základní příkaz je `/rp` nebo `/roleplay`.
 
